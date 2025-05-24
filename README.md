@@ -19,7 +19,7 @@ A full-stack finance app for setting and managing savings goals, tracking progre
 - **Backend:** Django REST API  
 - **Database:** PostgreSQL  
 - **Containers:** Docker & Docker Compose  
-- **CI:** GitHub Actions for automated testing and builds
+- **CI:** GitHub Actions for automated testing
 
 This project highlights full-stack development combined with containerization and continuous integration.
 
